@@ -23,7 +23,8 @@
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="50" alt="Power BI"/>
   <img width="12" />
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="50" alt="Excel"/>
-  
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" height="50" alt="Looker Studio"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="Python"/>
   <img width="12" />
@@ -57,7 +58,29 @@
 </div>
 
 ---
+## 📊 Dashboards Destacados
 
+Aquí algunos de mis proyectos de visualización de datos:
+
+<div align="center">
+
+### 📈 Dashboard de Millonarios  - Power BI
+https://app.powerbi.com/groups/me/reports/72f79c7a-4f82-43c2-a6fa-cf768d2a5883/ReportSection?experience=power-bi
+
+</div>
+
+<div align="center">
+
+### 📉 Dashboard de Eccommerce - Looker Studio
+<div align="center">
+
+### 📉 Dashboard de Marketing - Looker Studio
+[![Looker Studio Dashboard](https://img.shields.io/badge/📊%20Ver%20Dashboard%20Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)](https://lookerstudio.google.com/s/lZcXGuxuCPU))
+
+*Métricas de ventas, productos, tipos de clientes*
+
+
+</div>
 ## 💡 ¿Qué ofrezco?
 
 - ✔️ **Análisis de datos** para optimizar procesos y detectar oportunidades.
