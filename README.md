@@ -20,15 +20,14 @@
 
 ### 📊 Data & Analytics
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="50" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="50" alt="Power BI"/>
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/microsoftoffice/21A366" height="50" alt="Excel"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="PostgreSQL"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" height="50" alt="Apache Airflow"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="50" alt="Excel"/>
+  
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="Python"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL"/>
 </div>
 
 ### ☁️ Cloud & Herramientas
@@ -39,16 +38,22 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="Linux"/>
+  <img src="https://skillicons.dev/icons?i=gcp" height="50" alt="Linux"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
 </div>
 
 ### 🧠 En aprendizaje continuo
 <div align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow" height="50" alt="TensorFlow"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="50" alt="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" height="50" alt="Apache Airflow"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=gcp" height="50" alt="Google Cloud"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="PostgreSQL"/>
 </div>
 
 ---
@@ -65,13 +70,13 @@
 ## 🌐 Conecta conmigo
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/tu-perfil/">
+  <a href="https://www.linkedin.com/in/ana-nieto-8b57b3248/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/tu-usuario">
+  <a href="https://github.com/al-nm">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:tu-email@ejemplo.com">
+  <a href="mailto:ana-luisa-n@outlook.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
