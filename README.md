@@ -10,6 +10,23 @@
 
 <h3 align="center">🛠️ Tech Stack</h3>
 
+
+<h3 align="center">📊 Data & Analytics</h3>
+
+<div align="center">
+  <!-- Power BI -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="50" alt="Power BI"/>
+
+  <!-- Excel -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="50" alt="Excel"/>
+
+  <!-- SQL (usamos PostgreSQL como representación) -->
+  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="SQL"/>
+
+  <!-- Airflow -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" height="50" alt="Airflow"/>
+</div>
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=powerbi" height="50" alt="typescript" />
   <img src="https://skillicons.dev/icons?i=excel" height="50" alt="nextjs" />
