@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋 Soy Ana Luisa</h1>
 
 <p align="center">
-💻 Programadora TI en transición a Data Analyst <br>
+💻 Data Analyst en transición a Data Engiener or/and Data Scientific <br>
 📊 Apasionada por los datos, la automatización y resolver problemas reales <br>
-🌱 Actualmente aprendiendo: análisis de datos, visualización y herramientas modernas
+🌱 Actualmente continuo aprendiendo: análisis de datos, visualización y herramientas modernas de automatización
 </p>
 
 ---
@@ -11,21 +11,21 @@
 <h3 align="center">🛠️ Tech Stack</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwind" />
+  <img src="https://skillicons.dev/icons?i=powerbi" height="50" alt="typescript" />
+  <img src="https://skillicons.dev/icons?i=excel" height="50" alt="nextjs" />
+  <img src="https://skillicons.dev/icons?i=sql" height="50" alt="tailwind" />
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="python" />
   <img src="https://skillicons.dev/icons?i=aws" height="50" alt="aws" />
 </div>
 
 ---
 
-<h3 align="center">📊 Data & Tools</h3>
+<h3 align="center">📊 Data & Tools (Learning)</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="50" alt="graphql" />
-  <img src="https://skillicons.dev/icons?i=go" height="50" alt="go" />
+  <img src="https://skillicons.dev/icons?i=airflow" height="50" alt="graphql" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="50" alt="go" />
 </div>
 
 <p align="center">
