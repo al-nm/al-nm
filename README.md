@@ -71,9 +71,6 @@ https://app.powerbi.com/groups/me/reports/72f79c7a-4f82-43c2-a6fa-cf768d2a5883/R
 
 <div align="center">
 
-### 📉 Dashboard de Eccommerce - Looker Studio
-<div align="center">
-
 ### 📉 Dashboard de Marketing - Looker Studio
 [![Looker Studio Dashboard](https://img.shields.io/badge/📊%20Ver%20Dashboard%20Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)](https://lookerstudio.google.com/s/lZcXGuxuCPU))
 
@@ -110,7 +107,7 @@ https://app.powerbi.com/groups/me/reports/72f79c7a-4f82-43c2-a6fa-cf768d2a5883/R
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=al-nm&theme=dracula&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dracula&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=al-nm&show_icons=true&theme=dracula&hide_border=true" height="160"/>
 </div>
 
 <div align="center">
