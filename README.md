@@ -109,12 +109,12 @@ https://app.powerbi.com/groups/me/reports/72f79c7a-4f82-43c2-a6fa-cf768d2a5883/R
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=dracula&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=al-nm&theme=dracula&hide_border=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dracula&hide_border=true" height="160"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=TU_USUARIO&theme=dracula&row=1&column=4&no-frame=true"/>
+  <img src="https://github-profile-trophy.vercel.app?username=al-nm&theme=dracula&row=1&column=4&no-frame=true"/>
 </div>
 
 ---
